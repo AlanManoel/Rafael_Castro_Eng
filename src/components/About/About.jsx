@@ -19,7 +19,7 @@ export default function About() {
 
         <div>
           <div className="section-eyebrow">— Quem sou eu?</div>
-          <h2 className="about-h2">Rafael Castro</h2>
+          <h2 className="about-h2"><span className="blue-highlight">Rafael</span> Castro</h2>
           <p className="about-p">
             Engenheiro civil com mais de 8 anos de experiência, sou especialista em projetos
             estruturais, fundações, sempre oferecendo soluções com qualidade, eficiência e

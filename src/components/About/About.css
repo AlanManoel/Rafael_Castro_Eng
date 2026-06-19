@@ -1,7 +1,6 @@
 /* ── ABOUT ── */
 .about {
     padding: 40px 24px;
-    background: #fff;
 }
 
 .about-inner {
@@ -21,7 +20,7 @@
 
 .section-eyebrow {
     font-size: 0.68rem;
-    color: #1a4fa0;
+    color: #F7690B;
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.1em;
