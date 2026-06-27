@@ -2,7 +2,7 @@ import { useState } from "react";
 
 import Header from "./components/Header/Header";
 import Hero from "./components/Hero/Hero";
-import Stats from "./components/Stats";
+// import Stats from "./components/Stats";
 import About from "./components/About/About";
 import Portfolio from "./components/Portfolio/Portfolio";
 import CTA from "./components/CTA/CTA";
@@ -15,7 +15,7 @@ export default function RafaelCastro() {
     <div className="app-root">
       <Header menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
       <Hero />
-      <Stats />
+      {/* <Stats /> */}
       <About />
       <Portfolio />
       <CTA />
